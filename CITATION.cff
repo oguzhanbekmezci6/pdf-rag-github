@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "PDF RAG Assistant"
+version: 1.0.0
+date-released: 2026-07-29
+authors:
+  - family-names: "Bekmezci"
+    given-names: "Oğuzhan"
+repository-code: "https://github.com/oguzhanbekmezci6/pdf-rag-assistant"
+license: MIT
+keywords:
+  - retrieval-augmented generation
+  - PDF question answering
+  - semantic search
+  - document AI
+  - Turkish NLP

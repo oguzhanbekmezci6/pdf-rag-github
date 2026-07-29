@@ -1,0 +1,13 @@
+.git
+.github
+.venv
+venv
+.env
+.idea
+.vscode
+__pycache__
+.pytest_cache
+.ruff_cache
+data/uploads/*
+data/qdrant/*
+data/models/*

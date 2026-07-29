@@ -1,0 +1,25 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Local/private runtime data
+data/uploads/*
+!data/uploads/.gitkeep
+data/qdrant/*
+!data/qdrant/.gitkeep
+data/models/
+data/tessdata/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
