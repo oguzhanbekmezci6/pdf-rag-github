@@ -33,7 +33,6 @@ class GeminiClient:
                 model=self.settings.gemini_model,
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    temperature=0.1,
                     max_output_tokens=900,
                 ),
             )
