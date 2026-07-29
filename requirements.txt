@@ -1,7 +1,7 @@
 fastapi>=0.116,<1
 uvicorn[standard]>=0.35,<1
 python-multipart>=0.0.20,<1
-streamlit>=1.46,<2
+streamlit>=1.60.0,<2
 requests>=2.32,<3
 qdrant-client>=1.14,<2
 sentence-transformers>=5.0,<6
