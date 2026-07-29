@@ -8,9 +8,7 @@
 
 **A general-purpose Retrieval-Augmented Generation application for asking source-grounded questions across text-based and scanned PDF documents.**
 
-I built this project as a Statistics graduate who wanted to move beyond model notebooks and understand how an end-to-end AI application works: document ingestion, OCR, embeddings, vector search, API design, grounded generation, testing, and deployment basics.
-
-> For a few personal PDFs, uploading files directly to ChatGPT or Gemini may be simpler. This project focuses on the engineering behind a reusable document-search application: persistent indexing, local retrieval, page-level traceability, and an API that can be integrated into another product.
+PDF RAG Assistant is an end-to-end Retrieval-Augmented Generation application that enables users to upload PDF documents and ask questions based on their content. The system extracts text with OCR support, splits documents into meaningful chunks, generates multilingual embeddings, stores them in Qdrant, retrieves the most relevant passages, and uses Gemini to produce grounded answers with page-level citations. I developed this project as a Statistics graduate to gain practical experience in document processing, semantic search, vector databases, API development, large language model integration, testing, and deployment-oriented AI application design.
 
 ## Demo
 
