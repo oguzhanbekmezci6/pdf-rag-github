@@ -1,6 +1,5 @@
 # PDF RAG Assistant
 
-[![CI](https://github.com/oguzhanbekmezci6/pdf-rag-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/oguzhanbekmezci6/pdf-rag-assistant/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
